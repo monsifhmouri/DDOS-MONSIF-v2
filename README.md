@@ -10,10 +10,17 @@
 
 ## ⚙️ How to Run
 
-Make sure you have Python 3 installed, then run:
-
+Make sure you have Python 3 installed, then run: 
 ```bash
 python ddos_monsifv2.py
+
+
+
+
+-----------------------------------------------------------------------------------------------
+
+
+
 
 📌 Features
 Supports multi-threaded requests
@@ -21,4 +28,3 @@ Supports multi-threaded requests
 Rotates user-agents for each connection
 
 Lightweight and simple to use
-
